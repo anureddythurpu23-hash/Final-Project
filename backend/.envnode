@@ -1,0 +1,8 @@
+# Copy this file to .env and enter your own Supabase project values.
+PORT=3000
+NODE_ENV=development
+SUPABASE_URL=https://YOUR-PROJECT-REF.supabase.co
+SUPABASE_SERVICE_ROLE_KEY=YOUR_SERVER_SIDE_SECRET_KEY
+JWT_SECRET=REPLACE_WITH_A_LONG_RANDOM_SECRET
+JWT_EXPIRES_IN=8hsb_secret_76fFecYPDMO_xh0Zg5Cvlw_nzcdQ3jN
+
